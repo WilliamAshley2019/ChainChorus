@@ -1,10 +1,10 @@
 {
-  "Name": "ChainChorus",
+  "Name": "Chain Chorus",
   "Version": "1.0.0",
   "Factory Info": {
-    "Vendor": "yourcompany",
-    "URL": "www.yourcompany.com",
-    "E-Mail": "",
+    "Vendor": "William Ashley Music",
+    "URL": "williamashley.music",
+    "E-Mail": "contact@williamashley.music",
     "Flags": {
       "Unicode": true,
       "Classes Discardable": false,
@@ -13,10 +13,10 @@
   },
   "Classes": [
     {
-      "CID": "ABCDEF019182FAEB4D616E754F6C386F",
+      "CID": "ABCDEF019182FAEB57414D4143434350",
       "Category": "Audio Module Class",
-      "Name": "ChainChorus",
-      "Vendor": "yourcompany",
+      "Name": "Chain Chorus",
+      "Vendor": "William Ashley Music",
       "Version": "1.0.0",
       "SDKVersion": "VST 3.8.0",
       "Sub Categories": [
@@ -28,10 +28,10 @@
       ],
     },
     {
-      "CID": "ABCDEF011234ABCD4D616E754F6C386F",
+      "CID": "ABCDEF011234ABCD57414D4143434350",
       "Category": "Component Controller Class",
-      "Name": "ChainChorus",
-      "Vendor": "yourcompany",
+      "Name": "Chain Chorus",
+      "Vendor": "William Ashley Music",
       "Version": "1.0.0",
       "SDKVersion": "VST 3.8.0",
       "Sub Categories": [
